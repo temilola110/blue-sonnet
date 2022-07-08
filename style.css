@@ -1,0 +1,61 @@
+body {
+	background: rgb(33, 21, 75);
+	border: 5px thin; width: 25cm;
+  margin-right: 25%;
+  margin-left: 25%;
+  padding-bottom: 2em;
+}
+
+h1 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-size: 35px;
+text-align: center;
+margin: 0%;
+}
+
+
+#nav
+{
+    float: left;
+    margin-left: 10px;
+    padding-bottom: 17.7em;
+    padding-left: 1;
+    padding-right: 7em;
+    background-color: rgb(163, 185, 211);
+    text-align: top;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+#content
+{
+  padding-top: 1em;
+  margin: 0% 2em 0 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 1px;
+  text-align: center;
+}
+
+ #mmm {
+    text-align: center;
+ }
+
+p {
+	font-family: sans-serif;
+	text-align: left;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.copyright {
+	text-align: center;
+}
+
+#all {
+    background-color: rgb(85, 85, 190);
+    border-top: 0px;
+ border-width: 100px;
+    
+  
+  
+}
